@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.db.automation.test.DBTesting" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-06-12T07:04:26" hostname="DEEPAK" time="0.969">
+  <properties/>
+  <testcase name="dbTest_UpdateUserData" classname="com.bridgelabz.db.automation.test.DBTesting" time="0.969"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
